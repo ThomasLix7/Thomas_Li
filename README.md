@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science and AI
-- 🤔 I’m looking for help with improving coding ablity
+- 🤔 I’m looking for help with improving coding ability
 - 📫 How to reach me: hongtaolee@hotmail.com
 <!--
 **HTLi7/HTLi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
